@@ -37,6 +37,7 @@ I have a lot of interests in programming, but here are some things I love a lot 
 
 - **Making computers more intuitive:** I believe that some operations we as "power users" or developers do shoulnd't be exclusive, this is why im interested into making "complex" things easier, in fact, I am working on many projects (Classic developer with 100000 unfinished projects) to make for example something as simple as file hierarchy more intuitive and easy to use, and I hope I have something of this in the future.
 
+
 <img align="left"  width=20% height=20% src="https://zdnet4.cbsistatic.com/hub/i/2019/04/17/c9ffa923-b8ad-4359-8c64-71952158ef87/google-ecosystem.jpg">
 
 - **Unified UIs and Experiences:** I cannot stress this enough, but I feel like all devices should feel like one in different form factors, in fact im an Apple user because of the ecosystem, I think we should be able to perform the same operations on one device or another with similar experiences or UIs, this is why I absolutely love the Apple ecosystem. 
@@ -45,9 +46,23 @@ I have a lot of interests in programming, but here are some things I love a lot 
   
 - **UNIX:** I love UNIX-like operating systems, in fact, who doesn't?, this is why im interested in porting software from one UNIX platform to another, normally this is easy, except when the software is dependant on GNU syscalls, you can tell I don't like gnulibc, but I do love writing software that works the same or very similar in all *NIX operating systems! This is why my software normally works in both macOS and Linux, and since macOS is BSD-like it also works on BSD, sometimes, when the planets aling, it works on Windows.
 
+### 🔭 I’m currently working on
 
+I have a couple of projects I have been working on, some for a while, some for a little time and something I want to work in in the future:
 
+- **Winter (Codename):** Winter is a package manager (How unexpected!), is written in Rust, and it introduces new features to the world of package management, like native payment APIs or donation APIs, new algorithms for dependency solving, and more! Making a package manager is a lot of work, so I don't expect this anytime soon.
 
+- **QuickStart!:** I hate, with all my heart, making READMEs, I wish I could have a template and just drop my information, this is where QuickStart comes in, QuickStart is a new project of mine, with an UI made on React and the backend in Golang, the plan is to make starting GitHub projects that look good, super easy!. 
+
+- **Kanji:** Kanji is a build system, written in Python, that allows compilation of many open source software, with a "formulae" similar to Brew, the plan is to have a system that is able to output the same (or similar) package to multiple *NIX operating systems.
+
+- **Cheemit!:** I love Cheems, Cheems is a silly funny yellow dog, so I made a tool that puts him in images, Im currently working on adding more features to it, and I am having a lot of fun naming variables like `whereDoesCheemsGo`.
+
+- **EzChRoot:** Chrooting is essential when one is making a build system (You know, you don't want to delete /etc/ on your main system on accident), so this is why I made EzChRoot, since all where bash scripts, and allowed very very very little reusability or configuration I wrote my own tool on Golang, sadly the code isn't very good and it is broken on Big Sur.
+
+- **trm:** This idea is simple in fact it was suggested by a friend, it basically moves the file to trash instead of deleting it, like rm does, and you might wonder "Why not just make an alias? to mv" and you would be 100% right, I only made it for fun and a suggestion.
+
+ ### 🌱 I’m currently learning:
 
 <!--
 **DiegoMagdaleno/DiegoMagdaleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
