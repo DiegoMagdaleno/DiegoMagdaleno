@@ -54,7 +54,8 @@ I have a couple of projects I have been working on, some for a while, some for a
 
 - **QuickStart!:** I hate, with all my heart, making READMEs, I wish I could have a template and just drop my information, this is where QuickStart comes in, QuickStart is a new project of mine, with an UI made on React and the backend in Golang, the plan is to make starting GitHub projects that look good, super easy!. 
 
-- **Kanji:** Kanji is a build system, written in Python, that allows compilation of many open source software, with a "formulae" similar to Brew, the plan is to have a system that is able to output the same (or similar) package to multiple *NIX operating systems.
+- **Kanji:** Kanji is a build system, written in Python, that allows compilation of many open source software, with a "formulae" similar to Brew, the plan is to have a system that is able to output the same (or similar) package to multiple *NIX operating systems. <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlxpwMbWRSBSAn8zZjk6dDJ-PRDPwiiycOCw&usqp=CAU">
+
 
 - **Cheemit!:** I love Cheems, Cheems is a silly funny yellow dog, so I made a tool that puts him in images, Im currently working on adding more features to it, and I am having a lot of fun naming variables like `whereDoesCheemsGo`.
 
