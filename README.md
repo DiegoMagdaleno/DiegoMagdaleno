@@ -21,9 +21,9 @@ I have a lot of interests in programming, but here are some things I love a lot 
 
 - **Package Management:** I love working with package managers. Package managers are a thing that should be universal (Looking at your Microsoft). They allow us to get things instantly just by running a command, I have put a lot of time into this previously and contributed to various projects, just to name a few:
   
-Novus: Novus was a brew frontend for macOS, similar to what you see in iOS with Cydia or Sileo (APT Frontends). It started back in 2018 with a few friends, however this project failed, it was my first project and my experience was very low to guide it to success.
+  -  Novus: Novus was a brew frontend for macOS, similar to what you see in iOS with Cydia or Sileo (APT Frontends). It started back in 2018 with a few friends, however this project failed, it was my first project and my experience was very low to guide it to success.
 
-Back in 2019, 1 year after the initial failure, my best friend SmushyTaco and I revived Novus, using pacman (Yes the Arch Linux package manager). After having some trouble with the repos, we switched to APT (By Debian) and since the ecosystem was already used on iOS, I had some incredible team members like Diatrus (That helped me a lot with APT, patching the bootstrap, etc), Ultra and EvenDev (That made most of the GUI), and SmushyTaco (That contributed many ideas and rewrote a good deal of stuff in Rust) 
+      Back in 2019, 1 year after the initial failure, my best friend SmushyTaco and I revived Novus, using pacman (Yes the Arch Linux package manager). After having    some trouble with the repos, we switched to APT (By Debian) and since the ecosystem was already used on iOS, I had some incredible team members like Diatrus (That helped me a lot with APT, patching the bootstrap, etc), Ultra and EvenDev (That made most of the GUI), and SmushyTaco (That contributed many ideas and rewrote a good deal of stuff in Rust) 
     
     <img align="right" width=30% height=30% src="images/pmb.png">
     
