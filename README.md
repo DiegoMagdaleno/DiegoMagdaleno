@@ -13,7 +13,7 @@ I got interested in programming because I had an old iPod 4 that was given to me
 
 A few years later when I was around 13 or 14, I got a Lenovo laptop that had this weird bug where it would type "zyzyzyzy" out of nowhere, after my dad tried to fix it by giving it to a lot of technicians, and them saying it wasn't a hardware problem but an unremovable virus, I had an idea. So that day I installed Linux which got me into Bash scripting. _Fun fact: Days later I dual booted Windows, and the issue was gone, I wonder how did they restored that thing, it worked for me first try without the "zyzyzyzyzyz" issue_
 
-Today programming is not only my hobby but a passion, and all thanks to having that old iPod and laptop, today this is no longer an issue for me but thank god I had old hardware, no one knows where I would be now, probably taking photos on Snapchat wondering what kind of magic that is.
+Today programming is not only my hobby but a passion, and all thanks to having that old iPod and laptop, today this is no longer an issue for me but thank God I had old hardware, no one knows where I would be now, probably taking photos on Snapchat wondering what kind of magic that is.
 
 ### 🔬 My primary interests
 
