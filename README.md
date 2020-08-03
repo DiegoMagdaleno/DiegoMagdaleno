@@ -8,7 +8,7 @@ Here you can find my story, interests, what I am learning, and some fun facts ab
 
 ### 🙃 How I started programming
 
-I got interested in programming because I had an old iPod 4 that was given to me for only 40 dollars, when iOS 7 came out I loved the new cartoony/flat design. I was around the age of 10 so I had no way to update it, and this got me into a Jailbreaking just so I could install Winterboard and an iOS 7 theme, my interest in how those things were made started, so I started to learning the magic of programming, starting with Scratch.
+I got interested in programming because I had an old iPod 4 that was given to me for only 40 dollars, when iOS 7 came out I loved the new cartoony/flat design, I was around the age of 10.  But the iPod 4 didn't support iOS 7, and this got me into a Jailbreaking just so I could install Winterboard and an iOS 7 theme, my interest in how those things were made started, so I started to learning the magic of programming, starting with Scratch.
 <img align="right" width=20% height=20% src="images/ipod.jpeg">
 
 A few years later when I was around 13 or 14, I got a Lenovo laptop that had this weird bug where it would type "zyzyzyzy" out of nowhere, after my dad tried to fix it by giving it to a lot of technicians, and them saying it wasn't a hardware problem but an unremovable virus, I had an idea. So that day I installed Linux which got me into Bash scripting. _Fun fact: Days later I dual booted Windows, and the issue was gone, I wonder how did they restored that thing, it worked for me first try without the "zyzyzyzyzyz" issue_
@@ -61,7 +61,7 @@ I have a couple of projects I have been working on, some for a while, some for a
 
 - **EzChRoot:** chroots are essential when one is making a build system (You know, you don't want to delete /etc/ on your main system on accident), so so I made EzChRoot, since all where bash scripts, and allowed very little reusability or configuration I wrote my own tool on Golang, sadly the code isn't very good and it is broken on Big Sur.
 
-- **trm:** This project is simple, in fact it was suggested by a "friend", its basically `rm` but instead of deleting files it moves them to the trash, and you might wonder "Why not just make an alias to mv?" and you would be 100% right, I only made it for fun and a suggestion.
+- **trm:** This project is simple, in fact it was suggested by a friend, it's basically `rm` but instead of deleting files it moves them to the trash, and you might wonder "Why not just make an alias to mv?" and you would be 100% right, I only made it for fun and a suggestion.
 
  ### 🌱 I’m learning:
  
