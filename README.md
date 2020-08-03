@@ -1,6 +1,6 @@
 # Hey there, Im Diego Magdaleno 👋🏼👨🏽‍💻
 
-<img align="left" width=15% height=15% src="https://pbs.twimg.com/profile_images/1286135639440752640/7J6UHzBe_400x400.jpg"> Hi, Im Diego Magdaleno, im a young software developer that loves Open source, but only when the result is better than closed source alternatives. I love creating solutions to problems that make my daily life harder, so others don't have to experience the same struggle.
+<img align="left" width=15% height=15% src="https://pbs.twimg.com/profile_images/1286135639440752640/7J6UHzBe_400x400.jpg"> Hi, Im Diego Magdaleno, a young software developer that loves Open source, but only when the result is better than closed source alternatives. I love creating solutions to problems that make my daily life harder, so others don't have to experience the same struggle.
 
 I like to make everything professional and flexible, even simple scripts.
 
