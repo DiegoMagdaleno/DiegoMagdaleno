@@ -1,6 +1,6 @@
 # Hey there, Im Diego Magdaleno 👋🏼👨🏽‍💻
 
-<img align="left" width=15% height=15% src="https://pbs.twimg.com/profile_images/1286135639440752640/7J6UHzBe_400x400.jpg"> Hi, Im Diego Magdaleno, a young software developer that loves Open source, but only when the result is better than closed source alternatives. I love creating solutions to problems that make my daily life harder, so others don't have to experience the same struggle.
+<img align="left" width=15% height=15% src="images/diego.jpeg"> Hi, Im Diego Magdaleno, a young software developer that loves Open source, but only when the result is better than closed source alternatives. I love creating solutions to problems that make my daily life harder, so others don't have to experience the same struggle.
 
 I like to make everything professional and flexible, even simple scripts.
 
@@ -9,7 +9,7 @@ Here you can find my story, interests, what I am learning and some fun facts abo
 ### 🙃 How I started programming
 
 I got interested in programming because, I had an old iPod 4, that was given to me for only 40 dollars, when iOS 7 came out I loved the new cartoony/flat design, I was around the age of 10, so I had no way to update it, this got me into a concept called Jailbreaking, just to install Winterboard and an iOS 7 theme, my interest on how those things were made started, so I started learning the magic of programming, starting with Scratch.
-<img align="right" width=20% height=20% src="https://http2.mlstatic.com/D_NQ_NP_470321-MLM20738153856_052016-O.jpg">
+<img align="right" width=20% height=20% src="images/ipod.jpeg">
 
 A few years later at 13/14 I had a Lenovo laptop, that had this weird bug, where basically, it would type "zyzyzyzy" out of nowhere, after my dad tried to fix it by giving it to a lot of technicians, and them saying it wasn't a hardware failure but an unremovable virus, I had an idea, so that day I installed Linux, that got me into Bash scripting. _Fun fact: Days later I dual booted Windows, and the issue was gone, I wonder how did they restored that thing, it worked for me first try without the "zyzyzyzyzyz" issue_
 
@@ -25,7 +25,7 @@ I have a lot of interests in programming, but here are some things I love a lot 
   
     Back in 2019, 1 year later after the initial failure me and my best friend SmushyTaco revived Novus, using Pac-Man (Yes the Arch Linux package manager) after       having some trouble with the repos, we switched to APT (By Debian) since the ecosystem was already used on iOS, I had some incredible team members like Diatrus (That helped me a lot with APT, patching the bootstrap, etc), Ultra and EvenDev (That made most of the GUI) and SmushyTaco (That contributed many ideas  and rewrote a good deal of stuff in Rust) 
     
-    <img align="right" width=30% height=30% src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/Package_Management_tw_mostov.png?1468952534">
+    <img align="right" width=30% height=30% src="images/pmb.png">
     
   - Contributed to Spack: I contributed to Spack, recently it is in fact a package manager that I love, sadly is broken on current macOS versions, my contributions range from better behaviour when running as root to adding some packages.
   
@@ -38,7 +38,7 @@ I have a lot of interests in programming, but here are some things I love a lot 
 - **Making computers more intuitive:** I believe that some operations we as "power users" or developers do shouldn't be exclusive, therefore im interested into making "complex" things easier, in fact, I am working on many projects (Classic developer with 100000 unfinished projects) to make for example something as simple as file hierarchy more intuitive and easy to use, and I hope I have something of this in the future.
 
 
-<img align="left"  width=20% height=20% src="https://zdnet4.cbsistatic.com/hub/i/2019/04/17/c9ffa923-b8ad-4359-8c64-71952158ef87/google-ecosystem.jpg">
+<img align="left"  width=20% height=20% src="images/ecosystem.jpeg">
 
 - **Unified UIs and Experiences:** I cannot stress this enough, but I feel like all devices should feel like one in different form factors, in fact im an Apple user because of the ecosystem, I think we should be able to perform the same operations on either devices with a similar experience in the UI, therefore as you might have guess, based on my previous work, I absolutely love the Apple ecosystem. 
   
@@ -54,7 +54,7 @@ I have a couple of projects I have been working on, some for a while, some for a
 
 - **QuickStart!:** I hate, with all my heart, making READMEs, I wish I could have a template and just drop my information, this is where QuickStart comes in, QuickStart is a new project of mine, with an UI made on React and the backend in Golang, the plan is to make starting GitHub projects that look good, super easy!. 
 
-- **Kanji:** Kanji is a build system, written in Python, that allows compilation of many open source software, with a "formulae" similar to Brew, the plan is to have a system that can output the same (or similar) package to multiple *NIX operating systems. <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlxpwMbWRSBSAn8zZjk6dDJ-PRDPwiiycOCw&usqp=CAU">
+- **Kanji:** Kanji is a build system, written in Python, that allows compilation of many open source software, with a "formulae" similar to Brew, the plan is to have a system that can output the same (or similar) package to multiple *NIX operating systems. <img align="left" src="images/cheems.jpeg">
 
 
 - **Cheemit!:** I love Cheems, Cheems is a silly funny yellow dog, so I made a tool that puts him in images, Im working on adding more features to it, and I am having a lot of fun naming variables like `whereDoesCheemsGo`.
