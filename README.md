@@ -6,6 +6,13 @@ I like to make everything professional and flexible, even simple scripts.
 
 Here you can find my story, interests, what I am learning, and some fun facts about me.
 
+### 📊 My Stats
+[![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegomagdaleno&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomagdaleno)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 🙃 How I started programming
 
 I got interested in programming because I had an old iPod 4 that was given to me for only 40 dollars, when iOS 7 came out I loved the new cartoony/flat design, I was around the age of 10.  But the iPod 4 didn't support iOS 7, and this got me into a Jailbreaking just so I could install Winterboard and an iOS 7 theme, my interest in how those things were made started, so I started to learning the magic of programming, starting with Scratch.
