@@ -18,7 +18,7 @@ Here you can find my story, interests, what I am learning, and some fun facts ab
 I got interested in programming because I had an old iPod 4 that was given to me for only 40 dollars, when iOS 7 came out I loved the new cartoony/flat design, I was around the age of 10.  But the iPod 4 didn't support iOS 7, and this got me into a Jailbreaking just so I could install Winterboard and an iOS 7 theme, my interest in how those things were made started, so I started to learning the magic of programming, starting with Scratch.
 <img align="right" width=20% height=20% src="https://github.com/DiegoMagdaleno/DiegoMagdaleno/blob/master/images/ipod.jpeg?raw=true">
 
-A few years later when I was around 13 or 14, I got a Lenovo laptop that had this weird bug where it would type "zyzyzyzy" out of nowhere, after my dad tried to fix it by giving it to a lot of technicians, and them saying it wasn't a hardware problem but an unremovable virus, I had an idea. So that day I installed Linux which got me into Bash scripting. _Fun fact: Days later I dual booted Windows, and the issue was gone, I wonder how did they restored that thing, it worked for me first try without the "zyzyzyzyzyz" issue_
+A few years later when I was around 13 or 14, I got a Lenovo laptop that had this weird bug where it would type "zyzyzyzy" out of nowhere, after my dad tried to fix it by giving it to a lot of technicians, and them saying it wasn't a hardware problem but an unremovable virus, I had an idea. So that day I installed Linux which got me into Bash scripting. _Fun fact: Days later I dual booted Windows, and the issue was gone, I wonder how did they restored that thing, it worked for me first try without the "zyzyzyzyzyz" issue.
 
 Today programming is not only my hobby but a passion, and all thanks to having that old iPod and laptop, today this is no longer an issue for me but thank God I had old hardware, no one knows where I would be now, probably taking photos on Snapchat wondering what kind of magic that is.
 
@@ -47,11 +47,13 @@ I have a lot of interests in programming, but here are some things I love a lot 
 
 <img align="left"  width=20% height=20% src="https://github.com/DiegoMagdaleno/DiegoMagdaleno/blob/master/images/ecosystem.jpeg?raw=true">
 
-- **Unified UIs and Experiences:** I cannot stress this enough, but I feel like all devices should feel like one in different form factors, in fact im an Apple user because of the ecosystem, I think we should be able to perform the same operations on either devices with a similar experience in the UI, therefore as you might have guess, based on my previous work, I absolutely love the Apple ecosystem. 
+- **Unified UIs and Experiences:** I cannot stress this enough, but I feel like all devices should feel like one in different form factors, in fact I used to be an Apple user because of the ecosystem, while now im more than happy with my Windows 10 PC and Apple products, however I still think think we should be able to perform the same operations on either devices with a similar experience in the UI, therefore as you might have guess, based on my previous work, I absolutely love any brand that is able to generate a seamless ecosystem.
   
   And I would love seeing something by Google similar to this ecosystem in their Chromebooks and Android devices, or KDE with KDE mobile, or even GNOME! This is one of my favorite things in computing, so you will normally see an attempt of my own to make my software run everywhere. 
   
 - **UNIX:** I love UNIX-like operating systems, in fact, who doesn't?, so im interested in porting software from one UNIX platform to another, normally this is easy, unless the software depends on GNU syscalls, you can tell I don't like gnulibc, but I love writing software that works the same or very similar in all *NIX operating systems! Therefore my software normally works in both macOS and Linux, and since macOS is BSD-like it also works on BSD, sometimes, when the planets align, it works on Windows.
+
+- **WSL:** As you might have guessed one of my favorite components of Windows 10, is WSL, a fully working Linux ecosystem, I have developed some stuff for WSL that you can find on my its corresponding repositories. In my opinion Linux apps should feel as first class citizens on Windows 10.
 
 ### 🔭 I’m working on
 
@@ -66,14 +68,13 @@ I have a couple of projects I have been working on, some for a while, some for a
 
 - **Cheemit!:** I love Cheems, Cheems is a silly funny yellow dog, so I made a tool that puts him in images, Im working on adding more features to it, and I am having a lot of fun naming variables like `whereDoesCheemsGo`.
 
-- **EzChRoot:** chroots are essential when one is making a build system (You know, you don't want to delete /etc/ on your main system on accident), so so I made EzChRoot, since all where bash scripts, and allowed very little reusability or configuration I wrote my own tool on Golang, sadly the code isn't very good and it is broken on Big Sur.
-
 - **trm:** This project is simple, in fact it was suggested by a friend, it's basically `rm` but instead of deleting files it moves them to the trash, and you might wonder "Why not just make an alias to mv?" and you would be 100% right, I only made it for fun and a suggestion.
+
+- **RunInWSL:** This right now is one of my favorite projects, basically on the Linux part you have a GRPC server that parses and allows you to get what apps can open certain mimetypes (Type of the file, like txt, etc) then it gives this response
+to a C# client, allowing the user to select in what Linux app do they want to run their file.
 
  ### 🌱 I’m learning:
  
- - **React:** I don't enjoy frontend development a lot, but I found this framework interesting, so I started learning it with the help of some free resources of the internet, since im new to this crazy GUI world, when someone mentions the word "view" my heart skips a beat.
- 
- - **Flutter:** Im learning Flutter after I finish React since I find this project a little bit interesting but I want to learn more interesting stuff like...
- 
- - **Swift UI:** I want to learn Swift so I can make a GUI for many of my tools or future projects, we'll see how that turns out.
+- **C#:** Of course when I joined the Windows ecosystem, I had to introduce myself to C#, a fun programming language but perhaps too OOP for me!.
+
+- **Operating System development:** My passion for low level code and complex operations, is what makes me happy to be working on projects like this.
