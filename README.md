@@ -9,7 +9,7 @@ Here you can find my story, interests, what I am learning, and some fun facts ab
 ### 📊 My Stats
 [![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegomagdaleno&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomagdaleno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomagdaleno&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
