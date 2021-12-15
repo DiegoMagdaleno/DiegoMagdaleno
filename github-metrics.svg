@@ -3756,7 +3756,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.54625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.58500000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3785,7 +3785,7 @@
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 3027 stars</div>
+                                <div class="text">Maintaining a repository with 3028 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4142,7 +4142,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 2.55m out of 270m repositories
+                      ranked 2.56m out of 270m repositories
                     </span>
                   
                   
@@ -4269,7 +4269,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2021, 22:05:49 (timezone America/Mexico_City) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 14 Dec 2021, 23:06:21 (timezone America/Mexico_City) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
