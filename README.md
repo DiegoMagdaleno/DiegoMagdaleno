@@ -13,7 +13,7 @@
 ### Diego Magdaleno
 **Software Engineer · Published Researcher · Open Source Contributor**
 
-*Aguascalientes, Mexico — Open to Remote*
+*Mexico — Open to Remote*
 
 [![Email](https://img.shields.io/badge/diegomagdaleno%40pm.me-1a1a2e?style=flat-square&logo=protonmail&logoColor=3af0b0&labelColor=0d1219)](mailto:diegomagdaleno@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1219?style=flat-square&logo=linkedin&logoColor=3af0b0)](https://linkedin.com/in/diego-magdaleno-2033b1333)
